@@ -1,0 +1,112 @@
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Downloads\ATM StarBank\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\medin\OneDrive\Escritorio\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Downloads\IX code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Desktop\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Documents\kitoslord code\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\medin\OneDrive\Escritorio\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Videos\kitoslord code111\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.exe
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.deps.json
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.runtimeconfig.json
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\bin\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfoInputs.cache
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.AssemblyInfo.cs
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.csproj.CoreCompileInputs.cache
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\refint\ATM StarBank.dll
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.pdb
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ATM StarBank.genruntimeconfig.cache
+C:\Users\Presbiterio\Downloads\Nueva carpeta (2)\ATM StarBank\ATM StarBank\obj\Debug\net8.0\ref\ATM StarBank.dll
